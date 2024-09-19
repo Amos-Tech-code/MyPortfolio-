@@ -1,0 +1,84 @@
+
+*{
+ box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font, fallback to generic sans-serif */
+    font-size: 16px; /* Adjust font size as needed */
+    line-height: 1.6; /* Adjust line height for readability */
+}
+
+.w3-bar {
+    background-color: #012D5C; 
+    padding: 30px; 
+}
+
+/* Optional styles for button and topnav */
+.w3-button.hire-me-btn {
+    background-color: #eb5b51;
+    color: white;
+}
+
+.topnav{
+    display:block;
+    color: white;
+}
+
+.sidebtn{
+    display: none;
+}
+.header1{
+    position: sticky;
+    top: 0;
+    margin-bottom: 10%;
+}
+.section_1{
+    background-color: #fefaf9;
+}
+.svgshape{
+    background-image: url('images/SVG_shape.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+input,textarea{
+    max-width: 500px;
+}
+
+
+/* Custom animation for slow zoom */
+@keyframes slowZoom {
+    from {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+
+  /* Override the default zoom animation */
+  .mySlides.w3-animate-zoom {
+    animation-name: slowZoom;
+    animation-duration: 5s; 
+    animation-timing-function: ease-in-out;
+    transition: opacity 3s ease-in-out 0.5s;
+  }
+
+
+@media only screen and (max-width: 600px) {
+    
+    .w3-bar {
+        background-color: transparent;
+    }
+    .topnav{
+        display:none;
+    }
+    .sidebtn{
+        display: block;
+    }
+    #social_icons{
+        z-index: -1;
+    }
+    .logo{
+        display: none;
+    }
+}

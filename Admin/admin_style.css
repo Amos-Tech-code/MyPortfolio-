@@ -1,0 +1,40 @@
+
+#myheader{
+    position: sticky;
+    top: 0;
+}
+#closebtn{
+    display: none;
+}
+ .chat-entry {
+        margin-bottom: 10px;
+        padding: 20px;
+        border-radius: 5px;
+        background-color: #0866FF;
+
+    }
+
+    .chat-entry .time {
+        font-size: 12px;
+        color: white;
+        margin-left: 10px;
+    }
+    .w3-button.mybtn2{
+        background-color: #eb5b51;
+        color: white;
+    }
+    .w3-button.mybtn1{
+        background-color: #42B72A;
+        color: white;
+    }
+
+@media only screen and (max-width: 600px) {
+    #closebtn{
+        display: block;
+    }
+    #myheader{
+       font-size: 20px;
+       text-align: center;
+    }
+    
+}
