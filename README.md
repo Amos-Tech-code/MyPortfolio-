@@ -21,16 +21,8 @@ Ensure you have a browser on your machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-portfolio.git
+    git clone https://github.com/Amos-Tech-code/MyPortfolio-.git
     ```
-
-2. Open the project in Android Studio:
-    - File > Open > Select the project folder.
-
-3. Build and run the project on an emulator or physical device:
-    - Run > Run 'app'
-
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -40,7 +32,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out through the following platforms:
 
 - **Email:** amosk@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/amos-k/)
 - **GitHub:** [Your GitHub Profile](https://github.com/Amos-Tech-code)
 
 ---
