@@ -32,8 +32,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out through the following platforms:
 
 - **Email:** amosk@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/amos-k/)
-- **GitHub:** [Your GitHub Profile](https://github.com/Amos-Tech-code)
+- **LinkedIn:** https://www.linkedin.com/in/amos-k/
+- **GitHub:** https://github.com/Amos-Tech-code
 
 ---
 Thank you for checking out my portfolio! I appreciate your time and feedback.
